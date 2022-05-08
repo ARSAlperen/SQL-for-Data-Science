@@ -273,7 +273,8 @@ limit 10
 +------------------------+-----------+------+		
 Part 2: Inferences and Analysis
 
-1. Pick one city and category of your choice and group the businesses in that city or category by their overall star rating. Compare the businesses with 2-3 stars to the businesses with 4-5 stars and answer the following questions. Include your code.
+1. Pick one city and category of your choice and group the businesses in that city or category by their overall star rating. 
+Compare the businesses with 2-3 stars to the businesses with 4-5 stars and answer the following questions. Include your code.
 	
 City=Phoenix / Category=Restaurants
 
@@ -411,7 +412,8 @@ Determine if there is a connection between total yelping years, number of people
 ii. Write 1-2 brief paragraphs on the type of data you will need for your analysis and why you chose that data:
 
 I came to the following conclusions:        
-â€¢	Majority of people star yelping after 2010. People starting yelping between 2005-2009 only make up %10 percent of all data. So the interest have grown highly after 2010 for yelp.
+â€¢	Majority of people star yelping after 2010. People starting yelping between 2005-2009 only make up %10 percent of all data. 
+So the interest have grown highly after 2010 for yelp.
 â€¢	People who are yelping for 7 to 15 years also are yelping the most according to the average reviews.           
                   
 
